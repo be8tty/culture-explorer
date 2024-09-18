@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Ephiphany, Gonder",
+      "description": "Explore Ethiopian Outdoor and Indoor Festivals",
+      "imageUrl": "images/Ephiphany.png",
+      "iconUrl": "images/location.png"
+    },
+    {
+      "title": "Tihlo, Tigray",
+      "description": "Explore the Rich Variety of Ethiopian Food",
+      "imageUrl": "images/Tihlo.png",
+      "iconUrl": "images/fork.png"
+    },
+    {
+      "title": "Irrecha, Oromo Thanksgiving",
+      "description": "Celebrate the Oromo Thanksgiving festival",
+      "imageUrl": "images/Irrecha.png",
+      "iconUrl": "images/celebrate.png"
+    }
+  ]

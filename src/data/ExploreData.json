@@ -1,0 +1,140 @@
+[
+  {
+    "id": "irreecha",
+    "header": "Irrecha Thanksgiving",
+    "image": "/images/irrecha2.png",
+    "introduction": "One of the distinct thanksgiving celebrations in the traditional religion of the Oromos (Waaqeffannaa) is called 'Irreechaa' or 'Irreessaa,' which means thanksgiving and has been taking place for more than 6000 years. The festival attracts many people from all walks of life to witness the unique and colorful celebration of thankfulness, blessings, and prayers to God (Waaqa) for their achievements, and to request peace and harmony between nature and man, as well as for the health of their families, relatives, animals, and the country as a whole. The observance of this unique festival marks two seasonal shifts. The Irreechaa Tulluu is an annual festival observed in May at the top of mountains to mark the end of the dry season and the onset of the rainy season. The second festival, Irreechaa Malkaa, normally takes place at the end of September or the beginning of October, welcoming the dry season and praying for a good harvest after the rains. Many Oromos gather at a river, sea, or lake that has long been chosen as the site for this annual and colorful thanksgiving celebration. The Gada System, which reflects the social, political, and cultural aspects of the traditional Oromo people, was registered in UNESCO's list of the Intangible Cultural Heritage of Humanity in October 2016.",
+    "cards": [
+      {
+        "title": "Local Transport",
+        "content": [
+          {
+            "image": "/images/plane.png",
+            "text": "Flight: Fly into Addis Ababa Bole International Airport. From there, you can travel to the festival."
+          },
+          {
+            "image": "/images/car.png",
+            "text": "Public Transport: You can take mini-buses or buses from Addis Ababa to Bekoji (about 7 hours)."
+          },
+          {
+            "image": "/images/bajaj.png",
+            "text": "Local Transport in Bishoftu: You can use bajaj (three-wheeled taxis) or local taxis to move around the festival areas."
+          }
+        ],
+        "imageUrl": "/images/transport.png",
+        "navigateTo": "/local-transport"
+      },
+      {
+        "title": "Accommodations",
+        "content": [
+          {
+            "image": "/images/hotel.png",
+            "text": "Babogaya Lake Viewpoint Lodge: A cozy lodge offering beautiful views of Lake Babogaya. Book here."
+          },
+          {
+            "image": "/images/dot.png",
+            "text": "Kuriftu Resort & Spa: A luxury lakeside resort with modern amenities. Book here."
+          },
+          {
+            "image": "/images/dot.png",
+            "text": "Dreamland Hotel: A popular hotel located close to the festival venue with comfortable rooms and excellent service.Book here."
+          },
+          {
+            "image": "/images/note.png",
+            "text": "Budget Options: You can find guesthouses and more affordable stays in the Bishoftu area, but make sure to book early as accommodations fill up quickly due to the festival.."
+          }
+        ],
+        "imageUrl": "/images/accomodation.png",
+        "navigateTo": "/accommodations"
+      },
+      {
+        "title": "Tips",
+        "content": [
+          {
+            "image": "/images/note.png",
+            "text": "Respect Local Customs: Irreechaa is a spiritual and cultural celebration. Wear modest clothing and consider joining the tradition by wearing white garments adorned with green grass or flowers, symbolizing peace."
+          },
+          {
+            "image": "/images/spot.png",
+            "text": "Best Viewing Spots: For Irreechaa Malkaa, Lake Hora Arsedi in Bishoftu is the key location. Arrive early for a good spot to witness the prayers and colorful ceremonies."
+          },
+          {
+            "image": "/images/safety.png",
+            "text": "Safety: Be mindful of the large crowds. Keep your belongings secure and stay hydrated during the celebrations."
+          }
+        ],
+        "imageUrl": "/images/tips.png",
+        "navigateTo": "/tips"
+      }
+    ]
+  },
+  {
+    "id": "epiphany",
+    "header": "Gonder Epiphany",
+    "image": "/images/ephiphany2.png",
+    "introduction": "Gonder's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose festivals in Ethiopia, celebrated on January 19th and 20th. This event commemorates the baptism of Jesus Christ in the Jordan River and features colorful processions where the Tabot, a replica of the Ark of the Covenant, is carried through the streets by priests dressed in traditional attire. The atmosphere is filled with music, chanting, and the joyous participation of thousands dressed in white garments. The procession culminates at a nearby body of water, symbolizing Jesus' baptism, where rituals of immersion take place, allowing attendees to experience renewal and purification. Beyond its religious significance, Timket fosters community spirit, with families and friends gathering to celebrate together, sharing meals and traditional dances. The historical backdrop of Gonder, with its stunning castles and churches, enhances the festivities, making Timket a unique blend of faith, culture, and communal joy that captivates both locals and visitors alike.",
+    "cards": [
+      {
+        "title": "Local Transport",
+        "content": [
+          {
+            "image": "/images/plane.png",
+            "text": "Flight: Fly into Addis Ababa Bole International Airport. From there, you can travel to the festival."
+          },
+          {
+            "image": "/images/car.png",
+            "text": "Public Transport: You can take mini-buses or buses from Addis Ababa to Bekoji (about 7 hours)."
+          },
+          {
+            "image": "/images/bajaj.png",
+            "text": "Local Transport in Bishoftu: You can use bajaj (three-wheeled taxis) or local taxis to move around the festival areas."
+          }
+        ],
+        "imageUrl": "/images/transport.png",
+        "navigateTo": "/local-transport"
+      },
+      {
+        "title": "Accommodations",
+        "content": [
+          {
+            "image": "/images/hotel.png",
+            "text": "Babogaya Lake Viewpoint Lodge: A cozy lodge offering beautiful views of Lake Babogaya. Book here."
+          },
+          {
+            "image": "/images/dot.png",
+            "text": "Kuriftu Resort & Spa: A luxury lakeside resort with modern amenities. Book here."
+          },
+          {
+            "image": "/images/dot.png",
+            "text": "Dreamland Hotel: A popular hotel located close to the festival venue with comfortable rooms and excellent service.Book here."
+          },
+          {
+            "image": "/images/note.png",
+            "text": "Budget Options: You can find guesthouses and more affordable stays in the Bishoftu area, but make sure to book early as accommodations fill up quickly due to the festival.."
+          }
+        ],
+        "imageUrl": "/images/accomodation.png",
+        "navigateTo": "/accommodations"
+      },
+      {
+        "title": "Tips",
+        "content": [
+          {
+            "image": "/images/note.png",
+            "text": "Respect Local Customs: Irreechaa is a spiritual and cultural celebration. Wear modest clothing and consider joining the tradition by wearing white garments adorned with green grass or flowers, symbolizing peace."
+          },
+          {
+            "image": "/images/spot.png",
+            "text": "Best Viewing Spots: For Irreechaa Malkaa, Lake Hora Arsedi in Bishoftu is the key location. Arrive early for a good spot to witness the prayers and colorful ceremonies."
+          },
+          {
+            "image": "/images/safety.png",
+            "text": "Safety: Be mindful of the large crowds. Keep your belongings secure and stay hydrated during the celebrations."
+          }
+        ],
+        "imageUrl": "/images/tips.png",
+        "navigateTo": "/tips"
+      }
+    ]
+  }
+]

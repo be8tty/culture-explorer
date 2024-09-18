@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "title": "Gonder Ephiphany",
+    "region": "Northern",
+    "category": "Festivals",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ....",
+    "link": "/event/epiphany"
+  },
+  {
+    "id": 2,
+    "title": "Christmas in Lalibela",
+    "region": "Northern",
+    "category": "Festivals",
+    "imageUrl": "images/Lalibela.png",
+    "content": "Christmas in Lalibela, celebrated on January 7th, is a deeply spiritual and significant occasion in Ethiopia, especially in the town of Lalibela. This historic town, famous for its rock-hewn churches ... ....",
+    "link": "/event/lalibela"
+  },
+  {
+    "id": 3,
+    "title": "Shadey/ Ashendye/ Solel",
+    "region": "Northern",
+    "category": "Festivals",
+    "imageUrl": "images/shadey.png",
+    "content": "Shadey/Ashendiye/Solel (different parts of Amhara) and Ashenda (in Tigray) is a feast colorfully celebrated in the Northern part of Ethiopia in the month of August by the Tigray and Amhara people after two weeks fasting period called “Filseta”. It has ...",
+    "link": "/event/-ashendye-solel"
+  },
+  {
+    "id": 4,
+    "title": "Tihlo",
+    "region": "Northern",
+    "category": "Food & Cloth",
+    "imageUrl": "images/Tihlo.png",
+    "content": "Tihlo is a traditional dish from the Tigray region of Northern Ethiopia. It is made from barley flour and is often enjoyed during special occasions and communal gatherings. Here are some key details about Tihlo..",
+    "link": "/event/tihlo"
+  },
+  {
+    "id": 5,
+    "title": "Habesha Kemis",
+    "region": "Northern",
+    "category": "Food & Cloth",
+    "imageUrl": "images/kemis.png",
+    "content": "A traditional dress worn by women, made from handwoven cotton. It is often white with colorful embroidery along the edges and neckline...",
+    "link": "/event/habesha-kemis"
+  },
+  {
+    "id": 6,
+    "title": "Doro",
+    "region": "Northern",
+    "category": "Food & Cloth",
+    "imageUrl": "images/doro.png",
+    "content": "Doro Wot is a traditional Ethiopian chicken stew, renowned for its rich flavors and aromatic spices. It is a staple in Ethiopian cuisine, especially during special occasions and celebrations..",
+    "link": "/event/doro"
+  },
+  {
+    "id": 7,
+    "title": "Gursha",
+    "region": "Northern",
+    "category": "Customs",
+    "imageUrl": "images/gursha.png",
+    "content": "Ethiopian New Year takes place in September around the 11th or 12th. It is known as Enkutatash, which means “Gift of Jewels”. Ethiopians follow the Julian calendar that consists of 13 months (12 months of 30 days and one month with just 5 days/6 in a leap year). The calendar is 7 years and 8 months behind the Western Gregorian calendar. The New Year signifies the end of the rainy season and the lush green landscape (from 2-3 months of heavy rain) is very picturesque dotted with yellow Meskel flowers and a great time to celebrate the new harvest. Torches of dry wood .....",
+    "link": "/event/gursha"
+  },
+  {
+    "id": 8,
+    "title": "Ethiopian Orthodox Wedding",
+    "region": "Northern",
+    "category": "Customs",
+    "imageUrl": "images/wedding.png",
+    "content": "One of the distinct thanksgiving celebrations in the traditional religion of the Oromos (Waaqeffannaa) is called “Irreechaa” or “Irreessaa” which means thanksgiving and has been taking place for more than 6000 years. The festival attracts many people from all walks of life to witness the unique and colorful celebration of thankfulness, blessings and prayers to God (Waaqa) for their achievements and requesting peace and harmony between nature and man and for the health of  .....",
+    "link": "/event/ethiopian-orthodox-wedding"
+  },
+  {
+    "id": 9,
+    "title": "Buna Ceremony",
+    "region": "Northern",
+    "category": "Customs",
+    "imageUrl": "images/buna.png",
+    "content": "The Buna ceremony is an integral part of Ethiopian culture, particularly among the Ethiopian Orthodox Christian community. It is a traditional coffee ceremony that showcases hospitality, community, and the rich cultural significance of coffee in Ethiopian society. Here’s an overview of the Buna ceremony:..",
+    "link": "/event/buna-ceremony"
+  },
+  {
+    "id": 10,
+    "title": "Esksta",
+    "region": "Northern",
+    "category": "Cultural Dance",
+    "imageUrl": "images/eskesta.png",
+    "content": "Eskista is a traditional Ethiopian dance that is known for its unique and expressive movements, particularly focusing on the shoulders..",
+    "link": "/event/esksta"
+  },
+  {
+    "id": 11,
+    "title": "Tigrigna dance",
+    "region": "Northern",
+    "category": "Cultural Dance",
+    "imageUrl": "images/tigrigna.png",
+    "content": "Tigrigna dance refers to the traditional dances of the Tigray region in Northern Ethiopia, primarily performed by the Tigrinya-speaking people. These dances are characterized by their lively rhythms, intricate footwork, and expressive movements...",
+    "link": "/event/tigrigna-dance"
+  },
+  {
+    "id": 12,
+    "title": "Agew",
+    "region": "Northern",
+    "category": "Cultural Dance",
+    "imageUrl": "images/agew.png",
+    "content": "Agew dance refers to the traditional dances of the Agew people, an ethnic group primarily found in Northern Ethiopia, particularly in the Amhara and Tigray regions...",
+    "link": "/event/agew"
+  },
+  {
+    "id": 13,
+    "title": "Gonder Ephiphany",
+    "region": "Northern",
+    "category": "Religious",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ......",
+    "link": "/event/epiphany"
+  },
+  {
+    "id": 14,
+    "title": "Irrecha Thanksgiving",
+    "region": "Northern",
+    "category": "Religious",
+    "imageUrl": "images/irecha.png",
+    "content": "One of the distinct thanksgiving celebrations in the traditional religion of the Oromos (Waaqeffannaa) is called “Irreechaa” or “Irreessaa” which means thanksgiving and has been taking place for more than 6000 years. The festival attracts many people from all walks of life to witness the unique and colorful celebration of thankfulness, blessings and prayers to God (Waaqa) for their achievements and requesting peace and harmony between nature and man and for the health of  ......",
+     "link": "/event/irreecha"
+  },
+  {
+    "id": 15,
+    "title": "Ethiopian Orthodox Wedding",
+    "region": "Northern",
+    "category": "Religious",
+    "imageUrl": "images/wedding.png",
+    "content": "One of the distinct thanksgiving celebrations in the traditional religion of the Oromos (Waaqeffannaa) is called “Irreechaa” or “Irreessaa” which means thanksgiving and has been taking place for more than 6000 years. The festival attracts many people from all walks of life to witness the unique and colorful celebration of thankfulness, blessings and prayers to God (Waaqa) for their achievements and requesting peace and harmony between nature and man and for the health of  .....",
+    "link": "/event/ethiopian-orthodox-wedding-religious"
+  },
+  {
+    "id": 16,
+    "title": "Gonder Ephiphany",
+    "region": "Central",
+    "category": "Festivals",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ....",
+    "link": "/event/epiphany"
+  },
+  {
+    "id": 17,
+    "title": "Tihlo",
+    "region": "Central",
+    "category": "Food & Cloth",
+    "imageUrl": "images/Tihlo.png",
+    "content": "Tihlo is a traditional dish from the Tigray region of Northern Ethiopia. It is made from barley flour and is often enjoyed during special occasions and communal gatherings. Here are some key details about Tihlo..",
+    "link": "/event/tihlo-central"
+  },
+  {
+    "id": 18,
+    "title": "Gursha",
+    "region": "Central",
+    "category": "Customs",
+    "imageUrl": "images/gursha.png",
+    "content": "Ethiopian New Year takes place in September around the 11th or 12th. It is known as Enkutatash, which means “Gift of Jewels”. Ethiopians follow the Julian calendar that consists of 13 months (12 months of 30 days and one month with just 5 days/6 in a leap year). The calendar is 7 years and 8 months behind the Western Gregorian calendar. The New Year signifies the end of the rainy season and the lush green landscape (from 2-3 months of heavy rain) is very picturesque dotted with yellow Meskel flowers and a great time to celebrate the new harvest. Torches of dry wood .....",
+    "link": "/event/gursha-central"
+  },
+  {
+    "id": 19,
+    "title": "Tigrigna dance",
+    "region": "Central",
+    "category": "Cultural Dance",
+    "imageUrl": "images/tigrigna.png",
+    "content": "Tigrigna dance refers to the traditional dances of the Tigray region in Northern Ethiopia, primarily performed by the Tigrinya-speaking people. These dances are characterized by their lively rhythms, intricate footwork, and expressive movements...",
+    "link": "/event/tigrigna-dance-central"
+  },
+  {
+    "id": 20,
+    "title": "Gonder Ephiphany",
+    "region": "Central",
+    "category": "Religious",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ......",
+    "link": "/event/event/epiphany"
+  },
+  {
+    "id": 21,
+    "title": "Gonder Ephiphany",
+    "region": "Eastern",
+    "category": "Festivals",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ....",
+    "link": "/event/epiphany"
+  },
+  {
+    "id": 22,
+    "title": "Christmas in Lalibela",
+    "region": "Eastern",
+    "category": "Festivals",
+    "imageUrl": "images/Lalibela.png",
+    "content": "Christmas in Lalibela, celebrated on January 7th, is a deeply spiritual and significant occasion in Ethiopia, especially in the town of Lalibela. This historic town, famous for its rock-hewn churches ... ....",
+    "link": "/event/christmas-in-lalibela-eastern"
+  },
+  {
+    "id": 23,
+    "title": "Tihlo",
+    "region": "Eastern",
+    "category": "Food & Cloth",
+    "imageUrl": "images/Tihlo.png",
+    "content": "Tihlo is a traditional dish from the Tigray region of Northern Ethiopia. It is made from barley flour and is often enjoyed during special occasions and communal gatherings. Here are some key details about Tihlo..",
+    "link": "/event/tihlo-eastern"
+  },
+  {
+    "id": 24,
+    "title": "Habesha Kemis",
+    "region": "Eastern",
+    "category": "Food & Cloth",
+    "imageUrl": "images/kemis.png",
+    "content": "A traditional dress worn by women, made from handwoven cotton. It is often white with colorful embroidery along the edges and neckline...",
+    "link": "/event/habesha-kemis-eastern"
+  },
+  {
+    "id": 25,
+    "title": "Gursha",
+    "region": "Eastern",
+    "category": "Customs",
+    "imageUrl": "images/gursha.png",
+    "content": "Ethiopian New Year takes place in September around the 11th or 12th. It is known as Enkutatash, which means “Gift of Jewels”. Ethiopians follow the Julian calendar that consists of 13 months (12 months of 30 days and one month with just 5 days/6 in a leap year). The calendar is 7 years and 8 months behind the Western Gregorian calendar. The New Year signifies the end of the rainy season and the lush green landscape (from 2-3 months of heavy rain) is very picturesque dotted with yellow Meskel flowers and a great time to celebrate the new harvest. Torches of dry wood .....",
+    "link": "/event/gursha-eastern"
+  },
+  {
+    "id": 26,
+    "title": "Ethiopian Orthodox Wedding",
+    "region": "Eastern",
+    "category": "Customs",
+    "imageUrl": "images/wedding.png",
+    "content": "One of the distinct thanksgiving celebrations in the traditional religion of the Oromos (Waaqeffannaa) is called “Irreechaa” or “Irreessaa” which means thanksgiving and has been taking place for more than 6000 years. The festival attracts many people from all walks of life to witness the unique and colorful celebration of thankfulness, blessings and prayers to God (Waaqa) for their achievements and requesting peace and harmony between nature and man and for the health of  .....",
+    "link": "/event/ethiopian-orthodox-wedding-eastern"
+  },
+  {
+    "id": 27,
+    "title": "Esksta",
+    "region": "Eastern",
+    "category": "Cultural Dance",
+    "imageUrl": "images/eskesta.png",
+    "content": "Eskista is a traditional Ethiopian dance that is known for its unique and expressive movements, particularly focusing on the shoulders..",
+    "link": "/event/esksta-eastern"
+  },
+  {
+    "id": 28,
+    "title": "Esksta",
+    "region": "Eastern",
+    "category": "Cultural Dance",
+    "imageUrl": "images/eskesta.png",
+    "content": "Eskista is a traditional Ethiopian dance that is known for its unique and expressive movements, particularly focusing on the shoulders..",
+    "link": "/event/esksta-eastern-duplicate"
+  },
+  {
+    "id": 29,
+    "title": "Gonder Ephiphany",
+    "region": "Eastern",
+    "category": "Religious",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ......",
+    "link": "/event/epiphany"
+  },
+  {
+    "id": 30,
+    "title": "Gonder Ephiphany",
+    "region": "Southern",
+    "category": "Festivals",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ....",
+    "link": "/event/epiphany"
+  },
+  {
+    "id": 31,
+    "title": "Tihlo",
+    "region": "Southern",
+    "category": "Food & Cloth",
+    "imageUrl": "images/Tihlo.png",
+    "content": "Tihlo is a traditional dish from the Tigray region of Northern Ethiopia. It is made from barley flour and is often enjoyed during special occasions and communal gatherings. Here are some key details about Tihlo..",
+    "link": "/event/tihlo-southern"
+  },
+  {
+    "id": 32,
+    "title": "Gursha",
+    "region": "Southern",
+    "category": "Customs",
+    "imageUrl": "images/gursha.png",
+    "content": "Ethiopian New Year takes place in September around the 11th or 12th. It is known as Enkutatash, which means “Gift of Jewels”. Ethiopians follow the Julian calendar that consists of 13 months (12 months of 30 days and one month with just 5 days/6 in a leap year). The calendar is 7 years and 8 months behind the Western Gregorian calendar. The New Year signifies the end of the rainy season and the lush green landscape (from 2-3 months of heavy rain) is very picturesque dotted with yellow Meskel flowers and a great time to celebrate the new harvest. Torches of dry wood .....",
+    "link": "/event/gursha-southern"
+  },
+  {
+    "id": 33,
+    "title": "Esksta",
+    "region": "Southern",
+    "category": "Cultural Dance",
+    "imageUrl": "images/eskesta.png",
+    "content": "Eskista is a traditional Ethiopian dance that is known for its unique and expressive movements, particularly focusing on the shoulders..",
+    "link": "/event/esksta-southern"
+  },
+  {
+    "id": 34,
+    "title": "Gonder Ephiphany",
+    "region": "Southern",
+    "category": "Religious",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ......",
+    "link": "/event/epiphany"
+  },
+  {
+    "id": 35,
+    "title": "Gonder Ephiphany",
+    "region": "Western",
+    "category": "Festivals",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ....",
+    "link": "/event/epiphany"
+  },
+  {
+    "id": 36,
+    "title": "Tihlo",
+    "region": "Western",
+    "category": "Food & Cloth",
+    "imageUrl": "images/Tihlo.png",
+    "content": "Tihlo is a traditional dish from the Tigray region of Northern Ethiopia. It is made from barley flour and is often enjoyed during special occasions and communal gatherings. Here are some key details about Tihlo..",
+    "link": "/event/tihlo-western"
+  },
+  {
+    "id": 37,
+    "title": "Gursha",
+    "region": "Western",
+    "category": "Customs",
+    "imageUrl": "images/gursha.png",
+    "content": "Ethiopian New Year takes place in September around the 11th or 12th. It is known as Enkutatash, which means “Gift of Jewels”. Ethiopians follow the Julian calendar that consists of 13 months (12 months of 30 days and one month with just 5 days/6 in a leap year). The calendar is 7 years and 8 months behind the Western Gregorian calendar. The New Year signifies the end of the rainy season and the lush green landscape (from 2-3 months of heavy rain) is very picturesque dotted with yellow Meskel flowers and a great time to celebrate the new harvest. Torches of dry wood .....",
+    "link": "/event/gursha-western"
+  },
+  {
+    "id": 38,
+    "title": "Esksta",
+    "region": "Western",
+    "category": "Cultural Dance",
+    "imageUrl": "images/eskesta.png",
+    "content": "Eskista is a traditional Ethiopian dance that is known for its unique and expressive movements, particularly focusing on the shoulders..",
+    "link": "/event/esksta-western"
+  },
+  {
+    "id": 39,
+    "title": "Gonder Ephiphany",
+    "region": "Western",
+    "category": "Religious",
+    "imageUrl": "images/ephiphany.png",
+    "content": "Gondar's celebration of Ethiopian Epiphany, known as Timket, is one of the most vibrant and grandiose in the country. Celebrated on January 19th and 20th, the event marks the baptism of Jesus in the Jordan River. The heart of the celebration ......",
+    "link": "/event/Gonderepiphany"
+  }
+   
+  ]
